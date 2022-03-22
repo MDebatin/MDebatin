@@ -1,5 +1,5 @@
 
-<img align='right' src="https:https://img.favpng.com/1/4/13/bumper-performance-car-honda-nsx-png-favpng-t9BexwWPAK1u8R7DZn0L91wfg.jpg" width="300">
+<img align='right' src="https://i.pinimg.com/originals/2a/db/ca/2adbca7f27566e8f6710670fc294373e.png" width="300">
 <div>
     <a target='_blank' href="https://twitch.tv/Debatin">
         <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
