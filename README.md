@@ -1,5 +1,5 @@
 
-<img align='right' src="https://i.pinimg.com/originals/93/d3/e3/93d3e31639a4d07613de9dccdc8bd5e8.png" width="500">
+<img align='right' src="https://i.pinimg.com/originals/93/d3/e3/93d3e31639a4d07613de9dccdc8bd5e8.png" width="300">
 <div>
     <a target='_blank' href="https://twitch.tv/Debatin">
         <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
