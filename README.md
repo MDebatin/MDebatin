@@ -45,3 +45,23 @@ On my free time, I like to play games, and talk to my friends, but i dont had mu
 <div>
   <a href="https://github.com/MDebatin"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MDebatin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
+programming languages: ['JavaScript', 'TypeScript'],
+  tools: [
+      'Docker',
+      'Jest',
+      'React.js',
+      'RTL',
+      'Redux',
+      'Bootstrap',
+      'Context api',
+      'Git',
+      'HTML 5',
+      'CSS 3',
+      'FIGMA'
+      'Express',
+      'Node.js',
+      'Chai',
+      'Mocha',
+      'Sinon',
+  ],
+bootstrap css3 cypress docker express figma git heroku html5 javascript jest linux mocha mongodb mysql nodejs postman react typescript
