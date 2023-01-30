@@ -45,7 +45,7 @@ On my free time, I like to play games, and talk to my friends, but i dont had mu
 <div>
   <a href="https://github.com/MDebatin"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MDebatin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<p align="center" style="display: block; margin: 0 auto"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+<p align="left" style="display: block; margin: 0 auto"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
