@@ -63,7 +63,7 @@ On my free time, I like to play games, and talk to my friends, but i dont had mu
     
 <div align="center">
   <a href="https://github.com/MDebatin">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MDebatin&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDebatin&layout=compact&langs_count=7&theme=react"/> 
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MDebatin&show_icons=true&theme=dark#gh-dark-mode-only"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDebatin&layout=compact&langs_count=7&theme=dark"/> 
 </div>
 
