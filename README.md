@@ -47,7 +47,7 @@ On my free time, I like to play games, and talk to my friends, but i dont had mu
 * **Name**: Michael Debatin
 * **Age**: 20
 * **Living in**: Guabiruba, Santa Catarina, Brazil
-* **Stack**: HTML, CSS, studying PHP and JAVA
+* **Stack**: HTML, CSS, Git, JavaScript, PHP, PostgreSQL, MySQL, *Learning Laravel*
 * **University**: Computer Science on UNISOCIESC - Blumenau, Santa Catarina, Brazil
 
 ## Curiosities about me
